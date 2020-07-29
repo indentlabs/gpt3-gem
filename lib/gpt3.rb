@@ -39,8 +39,7 @@ class GPT3
         'max_tokens':  max_tokens,
         'temperature': temperature,
         'stop':        stop,
-        'n':           n,
-        'engine':      engine
+        'n':           n
       }
 
       if verbose
