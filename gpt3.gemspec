@@ -7,6 +7,6 @@ Gem::Specification.new do |s|
   s.authors     = ["Andrew Brown", "Indent Labs"]
   s.email       = 'andrew@indentlabs.com'
   s.files       = Dir['lib/**/*.rb']
-  s.homepage    = 'https://rubygems.org/gems/gpt3'
+  s.homepage    = 'https://github.com/indentlabs/gpt3-gem'
   s.license     = 'MIT'
 end
