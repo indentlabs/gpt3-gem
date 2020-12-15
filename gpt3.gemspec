@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'gpt3'
-  s.version     = '0.0.1'
+  s.version     = '0.0.2'
   s.date        = '2020-07-14'
   s.summary     = "An unofficial wrapper for using the GPT-3 Sandbox API in Ruby."
   s.description = "An unofficial wrapper for using the GPT-3 Sandbox API in Ruby."
