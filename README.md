@@ -12,7 +12,7 @@ Setup is easy. Just set your OpenAI Secret Key in an `OPENAI_SK` environment var
 
 To generate a prompt completion, use the `Completion` class. For example,
 
-    Completion.create("Once upon a midnight dreary,",
+    GPT3::Completion.create("Once upon a midnight dreary,",
       max_tokens: 512,
       engine: 'davinci',
       temperature: 0.5,
